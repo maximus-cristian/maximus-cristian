@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maximus-cristian
 - 👀 I’m interested in the front-end design processes of websites, working either solo or on a team
-- 🌱 I’m currently learning MongoDb, Redux, React, and a few others
+- 🌱 Familiar with React, MongoDb, HTML, CSS, JSX and a few others
 - 💞️ I’m looking to collaborate on front-end web development or UI/UX
 - 📫 How to reach me, maxjcristian@gmail.com
 
